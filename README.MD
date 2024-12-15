@@ -9,6 +9,10 @@ Then install all the libraries in requirements.txt using:
 ```
 pip install -r requirements.txt
 ```
+Run using:
+```
+python main.py
+```
 # Usage
 Press g to start taking a screenshot of the question.
 

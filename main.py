@@ -7,12 +7,6 @@ import keyboard
 import win32api
 import time
 
-
-print("Download tesseract-ocr from the setup file in the folder")
-print("Press g to start taking a screenshot of the question")
-print("Click on the left top of your question and then click on the right bottom of your question")
-print("Press e to exit the program")
-
 # If you don't have tesseract executable in your PATH, include the following:
 pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tesseract'
 # Mouse Click Setup
